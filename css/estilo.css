@@ -1,0 +1,14 @@
+#home {
+	background-color: #FFC107;
+	color: #FFF;
+	overflow: hidden;
+}
+
+.caixa {
+	padding: 60px 0px;
+	border-bottom: 1px solid #E5E5E5;
+}
+
+footer p a{
+	margin: 5px 15px;
+}
